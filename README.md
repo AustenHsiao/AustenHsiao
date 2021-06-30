@@ -19,4 +19,6 @@ Welcome to my GitHub page. My name is Austen Hsiao, I am a computer science grad
 
 Pronouns | He, Him, His\
 Email | AustenHsiao@gmail.com\
-LinkedIn | https://www.linkedin.com/in/austenhsiao/\
+LinkedIn | https://www.linkedin.com/in/austenhsiao/ \
+
+Aside from coding, I love to cook :tomato:, play basketball :basketball:, and play video games :video_game:
