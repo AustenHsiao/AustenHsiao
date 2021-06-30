@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 ### Hi!
 Welcome to my GitHub page. My name is Austen Hsiao, I am a computer science graduate student at Portland State University
 
-          |            
---------- | -----------
-Pronouns | He, Him, His
-Email | AustenHsiao@gmail.com
-LinkedIn | https://www.linkedin.com/in/austenhsiao/
+Pronouns | He, Him, His\
+Email | AustenHsiao@gmail.com\
+LinkedIn | https://www.linkedin.com/in/austenhsiao/\
