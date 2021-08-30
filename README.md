@@ -19,4 +19,4 @@ Pronouns | He, Him, His\
 Email    | AustenHsiao@gmail.com\
 LinkedIn | https://www.linkedin.com/in/austenhsiao/ 
 
-Aside from coding, I love to cook :tomato:, play basketball :basketball:, and play video games :video_game:. My most recent recipe sought to replace lunch meat with meat-free alternatives. Feel free to connect with me and ask me about anything!  
+Aside from coding, I love to cook :tomato:, play basketball :basketball:, and play video games :video_game:. Feel free to connect with me and/or ask me about anything  
