@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-Welcome to my GitHub page. My name is Austen Hsiao, I am a computer science graduate student at Portland State University. My academic focus is on ML/AI, with expected graduation in December 2021 
+Welcome to my GitHub page. My name is Austen Hsiao, I am a computer science graduate student at Portland State University. My academic focus is on ML/AI, graduating in December 2021 
 
 Pronouns | He, Him, His\
 Email    | AustenHsiao@gmail.com\
